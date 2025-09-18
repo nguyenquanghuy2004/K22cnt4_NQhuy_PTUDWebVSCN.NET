@@ -1,0 +1,30 @@
+﻿@model IEnumerable<ShoeStore.Models.Product>
+@{
+    ViewData["Title"] = "Danh sách giày";
+}
+
+<h2 class="text-center text-primary">DANH SÁCH GIÀY</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Mã sản phẩm</th>
+            <th>Tên giày</th>
+            <th>Thương hiệu</th>
+            <th>Năm sản xuất</th>
+            <th>Giá</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ShoeName</td>
+                <td>@item.Brand</td>
+                <td>@item.YearRelease</td>
+                <td>@String.Format("{0:N0} VND", item.Price)</td>
+            </tr>
+        }
+    </tbody>
+</table>
