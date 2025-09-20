@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Cấu trúc lặp";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+@{
+    for(int i=0; i<10; i++) {
+        if (i % 2 == 0) {
+            <span class="alert alert-danger">@i</span>
+        }else{
+            
+        }   <span class="alert alert-success">@i</span>
+    }
+}
+

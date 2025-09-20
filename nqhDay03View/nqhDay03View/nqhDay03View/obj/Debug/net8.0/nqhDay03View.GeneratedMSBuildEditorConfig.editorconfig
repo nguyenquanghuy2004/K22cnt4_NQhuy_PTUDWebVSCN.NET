@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = nqhDay03View
+build_property.RootNamespace = nqhDay03View
+build_property.ProjectDir = C:\Users\ACER\source\repos\nqhDay01\K22cnt4_NQhuy_PTUDWebVSCN.NET\nqhDay03View\nqhDay03View\nqhDay03View\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ACER\source\repos\nqhDay01\K22cnt4_NQhuy_PTUDWebVSCN.NET\nqhDay03View\nqhDay03View\nqhDay03View
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/nqhHome/nqhAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbnFoSG9tZVxucWhBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/nqhHome/nqhIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbnFoSG9tZVxucWhJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/nqhHome/nqhViewIf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbnFoSG9tZVxucWhWaWV3SWYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/nqhHome/nqhViewLoop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbnFoSG9tZVxucWhWaWV3TG9vcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/nqhHome/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbnFoSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/Components/nqhDemo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcbnFoRGVtb1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/_nqhFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ucWhGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/_nqhLeftMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ucWhMZWZ0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/_nqhNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ucWhOYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ACER/source/repos/nqhDay01/K22cnt4_NQhuy_PTUDWebVSCN.NET/nqhDay03View/nqhDay03View/nqhDay03View/Views/Shared/_nqhLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9ucWhMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5qk7igsoq6

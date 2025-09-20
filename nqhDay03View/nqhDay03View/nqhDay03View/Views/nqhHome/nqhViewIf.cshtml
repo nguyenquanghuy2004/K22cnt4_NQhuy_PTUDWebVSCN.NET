@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "Cấu trúc điều khiển if";
+
+    var total = 123123;
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<h3>Total: @total</h3>
+@if (total>5000)
+{
+    <P>Bạn là người giàu</P>
+}
+else
+{
+    <p>Bạn là người chưa giàu</p>
+}
+<hr/>
+@{
+    var score = 85;
+}
+
+@if (score >= 90)
+{
+    <p>Xuất sắc</p>
+}
+else if (score >= 70)
+{
+    <p>Khá</p>
+}
+else
+{
+    <p>Trung bình</p>
+}

@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\shared\\components\\nqhdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\shared\\components\\nqhdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\shared\\_nqhleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\shared\\_nqhleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\shared\\_nqhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\shared\\_nqhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\shared\\_nqhfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\shared\\_nqhfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\viewcomponents\\nqhdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\viewcomponents\\nqhdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\shared\\_nqhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\shared\\_nqhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\nqhhome\\nqhviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\nqhhome\\nqhviewif.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\controllers\\nqhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\controllers\\nqhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\nqhhome\\nqhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\nqhhome\\nqhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\nqhday03view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\nqhday03view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\nqhhome\\nqhviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\nqhhome\\nqhviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\views\\nqhhome\\nqhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\views\\nqhhome\\nqhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday03view\\nqhday03view\\nqhday03view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1249A687-CF64-40FD-90EA-2DC29B75BE44}|nqhDay03View\\nqhDay03View.csproj|solutionrelative:nqhday03view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\Components\\nqhDemo\\Default.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\Shared\\Components\\nqhDemo\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\Components\\nqhDemo\\Default.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\Shared\\Components\\nqhDemo\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T13:14:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nqhDemoViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\ViewComponents\\nqhDemoViewComponent.cs",
+              "RelativeDocumentMoniker": "nqhDay03View\\ViewComponents\\nqhDemoViewComponent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\ViewComponents\\nqhDemoViewComponent.cs",
+              "RelativeToolTip": "nqhDay03View\\ViewComponents\\nqhDemoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:37:35.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_nqhNavbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhNavbar.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\Shared\\_nqhNavbar.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhNavbar.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\Shared\\_nqhNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:17:58.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nqhViewIf.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhViewIf.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\nqhHome\\nqhViewIf.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhViewIf.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\nqhHome\\nqhViewIf.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T09:11:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_nqhLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhLayout.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\Shared\\_nqhLayout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhLayout.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\Shared\\_nqhLayout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:55:16.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_nqhFooter.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhFooter.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\Shared\\_nqhFooter.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhFooter.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\Shared\\_nqhFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:25:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_nqhLeftMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\Shared\\_nqhLeftMenu.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\Shared\\_nqhLeftMenu.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\Shared\\_nqhLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:31:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T09:01:42.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nqhHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Controllers\\nqhHomeController.cs",
+              "RelativeDocumentMoniker": "nqhDay03View\\Controllers\\nqhHomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Controllers\\nqhHomeController.cs",
+              "RelativeToolTip": "nqhDay03View\\Controllers\\nqhHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:39:14.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "nqhDay03View\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "nqhDay03View\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:20:29.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "nqhDay03View.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\nqhDay03View.csproj",
+              "RelativeDocumentMoniker": "nqhDay03View\\nqhDay03View.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\nqhDay03View.csproj",
+              "RelativeToolTip": "nqhDay03View\\nqhDay03View.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T10:58:44.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "nqhDay03View\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Models\\Category.cs",
+              "RelativeToolTip": "nqhDay03View\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T12:43:05.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "nqhAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhAbout.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\nqhHome\\nqhAbout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhAbout.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\nqhHome\\nqhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T08:47:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nqhIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhIndex.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\nqhHome\\nqhIndex.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhIndex.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\nqhHome\\nqhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T09:00:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Program.cs",
+              "RelativeDocumentMoniker": "nqhDay03View\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Program.cs",
+              "RelativeToolTip": "nqhDay03View\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:38:17.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "nqhViewLoop.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhViewLoop.cshtml",
+              "RelativeDocumentMoniker": "nqhDay03View\\Views\\nqhHome\\nqhViewLoop.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay03View\\nqhDay03View\\nqhDay03View\\Views\\nqhHome\\nqhViewLoop.cshtml",
+              "RelativeToolTip": "nqhDay03View\\Views\\nqhHome\\nqhViewLoop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:02:43.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
