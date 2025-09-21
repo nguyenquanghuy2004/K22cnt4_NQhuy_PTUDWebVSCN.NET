@@ -1,0 +1,24 @@
+﻿<hr />
+<button id="loadAjax" class="btn btn-sm btn-primary">Click load book từ partialResult</button>
+<hr />
+
+<div id="data-from-ajax" class="row">Loading data....</div>
+<hr />
+
+<div class="row">...</div>
+
+@section Scripts {
+    <script>
+        // Gọi sự kiện click vào nút bấm có id = "loadAjax"
+        $('#loadAjax').click(function () {
+            // Thông qua AJAX, load nội dung từ partial view vào thẻ div có id="data-from-ajax"
+            $('#data-from-ajax').load("/Book/PopularBook");
+        });
+    </script>
+}
+@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<partial name="_Banner" />
+

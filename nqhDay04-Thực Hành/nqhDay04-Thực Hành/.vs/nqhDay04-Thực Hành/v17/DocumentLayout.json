@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\_banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\nqhday04-th\u1EF1c h\u00E0nh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435DE449-668B-4A1D-9DE6-4D8BA43866C0}|nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj|solutionrelative:nqhday04-th\u1EF1c h\u00E0nh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:59:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Banner.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Banner.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Banner.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Banner.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Banner.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:58:38.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T08:45:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "my_layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\my_layout.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\my_layout.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T11:25:08.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T11:18:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\ViewComponents\\BookViewComponent.cs",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\ViewComponents\\BookViewComponent.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\ViewComponents\\BookViewComponent.cs",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\ViewComponents\\BookViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T11:11:09.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:44:11.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\BookController.cs",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:44:22.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T07:34:20.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T06:47:35.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PopularBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\PopularBook.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\PopularBook.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\PopularBook.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\Book\\PopularBook.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T10:28:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "nqhDay04-Th\u1EF1c H\u00E0nh",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T11:09:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-21T11:29:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Models\\Book.cs",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:33:38.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "nqhDay04-Th\u1EF1c H\u00E0nh\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T08:30:41.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

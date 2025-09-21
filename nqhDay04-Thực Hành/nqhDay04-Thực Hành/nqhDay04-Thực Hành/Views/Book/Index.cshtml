@@ -1,0 +1,63 @@
+﻿@model List<nqhDay04_ThucHanh.Models.Book>
+
+@{
+    ViewData["Title"] = "Danh sách các cuốn sách";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Bộ lọc tìm kiếm -->
+<form asp-controller="Book" asp-action="Index" method="get" class="mb-3 d-flex">
+    <select name="authorId" class="form-select me-2" style="width:200px">
+        <option value="">Chọn tác giả</option>
+        <option value="1">Tác giả 1</option>
+        <option value="2">Tác giả 2</option>
+        <option value="3">Tác giả 3</option>
+    </select>
+
+    <select name="genreId" class="form-select me-2" style="width:200px">
+        <option value="">Chọn thể loại</option>
+        <option value="1">Thể loại 1</option>
+        <option value="2">Thể loại 2</option>
+        <option value="3">Thể loại 3</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary me-2">Tìm kiếm</button>
+    <a asp-action="Create" class="btn btn-danger">Thêm mới</a>
+</form>
+
+<!-- Danh sách sách -->
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tiêu đề</th>
+            <th>Tác giả</th>
+            <th>Thể loại</th>
+            <th>Giá</th>
+            <th>Tổng số trang</th>
+            <th>Hình ảnh</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.AuthorId</td>
+                <td>@book.GenreId</td>
+                <td>@book.Price</td>
+                <td>@book.TotalPage</td>
+                <td>
+                    <img src="@book.Image" alt="@book.Title" width="80" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@book.Id" class="btn btn-sm btn-warning">Sửa</a>
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
