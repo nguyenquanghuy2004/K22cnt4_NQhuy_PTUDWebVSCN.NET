@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NqhDay05Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e89fee817b099ed87661b7739f1d000b1b46c932")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d1cc41d9bab47295bcb48ca09ccfbdd56e4f12d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NqhDay05Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NqhDay05Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

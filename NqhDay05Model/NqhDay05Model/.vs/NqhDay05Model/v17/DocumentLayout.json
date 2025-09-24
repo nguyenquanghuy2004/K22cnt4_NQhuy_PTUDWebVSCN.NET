@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NqhDay05Model\\NqhDay05Model\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday05model\\nqhday05model\\nqhday05model\\views\\nqhmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|solutionrelative:nqhday05model\\views\\nqhmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday05model\\nqhday05model\\nqhday05model\\controllers\\nqhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|solutionrelative:nqhday05model\\controllers\\nqhmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday05model\\nqhday05model\\nqhday05model\\views\\nqhmember\\nqhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|solutionrelative:nqhday05model\\views\\nqhmember\\nqhdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday05model\\nqhday05model\\nqhday05model\\views\\nqhmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|solutionrelative:nqhday05model\\views\\nqhmember\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{852C81B1-3A43-4606-8CA6-B178DE5A6B50}|NqhDay05Model\\NqhDay05Model.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\nqhday05model\\nqhday05model\\nqhday05model\\views\\nqhmember\\nqhdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NqhDelete.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NqhDay05Model\\NqhDay05Model\\NqhDay05Model\\Views\\NqhMember\\NqhDelete.cshtml",
               "RelativeDocumentMoniker": "NqhDay05Model\\Views\\NqhMember\\NqhDelete.cshtml",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\NqhDelete.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T11:27:42.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T11:27:42.292Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\NqhEdit.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T10:43:39.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T10:43:39.705Z"
             },
             {
               "$type": "Document",
@@ -88,18 +86,17 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\NqhCreate.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T10:05:10.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T10:05:10.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NqhDay05Model\\NqhDay05Model\\NqhDay05Model\\Views\\NqhMember\\Index.cshtml",
               "RelativeDocumentMoniker": "NqhDay05Model\\Views\\NqhMember\\Index.cshtml",
               "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NqhDay05Model\\NqhDay05Model\\NqhDay05Model\\Views\\NqhMember\\Index.cshtml",
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\Index.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-24T09:44:55.634Z",
               "EditorCaption": ""
@@ -114,8 +111,7 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:10:38.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:10:38.104Z"
             },
             {
               "$type": "Document",
@@ -127,12 +123,11 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\NqhGetMember.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T08:58:16.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:58:16.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NqhMemberController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NqhDay05Model\\NqhDay05Model\\NqhDay05Model\\Controllers\\NqhMemberController.cs",
               "RelativeDocumentMoniker": "NqhDay05Model\\Controllers\\NqhMemberController.cs",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\NqhDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T11:17:36.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T11:17:36.044Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "NqhDay05Model\\Views\\NqhMember\\NqhGetMembers.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T09:24:36.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:24:36.038Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "NqhDay05Model\\Models\\NqhMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T08:43:28.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T08:43:28.679Z"
             }
           ]
         }
