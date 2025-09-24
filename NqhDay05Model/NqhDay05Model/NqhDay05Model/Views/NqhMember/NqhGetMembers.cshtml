@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin thành viên";
+    // chuyển đổi kiểu
+    var members = Model as List<NqhDay05Model.Models.NqhMember>;
+    var stt = 1;
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<table class="table table-bordered">
+    <thead>
+        <tr>STT</tr>
+        <tr>MemberId</tr>
+        <tr>FullName</tr>
+        <tr>UserName</tr>
+        <tr>Email</tr>
+    </thead>
+    <tbody>
+        @foreach (var item in members)
+        {
+            <tr>
+                <td>@stt</td>
+                <td>@item.MemberId</td>
+                <td>@item.Fullname</td>
+                <td>@item.Username</td>
+                <td>@item.Email</td>
+            </tr>
+            stt++;
+        }
+    </tbody>
+</table>
+

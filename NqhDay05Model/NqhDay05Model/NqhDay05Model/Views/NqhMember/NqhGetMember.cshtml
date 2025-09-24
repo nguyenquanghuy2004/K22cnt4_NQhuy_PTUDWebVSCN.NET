@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin thành viên ";
+    // chuyển đổi kiểu
+    var nqhMember = @ViewBag.nqhMember as NqhDay05Model.Models.NqhMember;
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>Member Id: @ViewBag.nqhMember.MemberId</p>
+<p>FullName: @nqhMember.Fullname</p>
+<p>UserName: @nqhMember.Username</p>
+<p>Password: @nqhMember.Password</p>
+<p>Email: @nqhMember.Email</p>
+<hr/>
+
+
+
