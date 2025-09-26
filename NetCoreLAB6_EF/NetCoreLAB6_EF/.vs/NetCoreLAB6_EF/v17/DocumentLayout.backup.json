@@ -1,12 +1,204 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\entities\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\migrations\\20250926065412_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\migrations\\20250926065412_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\netcorelab6_ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorelab6_ef\\netcorelab6_ef\\netcorelab6_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96A05CF4-E233-4991-940A-E58819A6F6E3}|NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj|solutionrelative:netcorelab6_ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T10:00:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA2wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:04:53.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Entities\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Entities\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Entities\\AppDbContext.cs",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Entities\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:47:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NetCoreLAB6_EF.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj",
+              "RelativeToolTip": "NetCoreLAB6_EF\\NetCoreLAB6_EF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T05:45:18.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Models\\product.cs",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Models\\product.cs",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Models\\product.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:43:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Models\\category.cs",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Models\\category.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Models\\category.cs",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Models\\category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:41:22.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Views\\Categories\\Index.cshtml*",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Views\\Categories\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T10:19:35.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T10:38:41.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Program.cs",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:50:28.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250926065412_v1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Migrations\\20250926065412_v1.cs",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\Migrations\\20250926065412_v1.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\Migrations\\20250926065412_v1.cs",
+              "RelativeToolTip": "NetCoreLAB6_EF\\Migrations\\20250926065412_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:54:12.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\appsettings.json",
+              "RelativeDocumentMoniker": "NetCoreLAB6_EF\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\NetCoreLAB6_EF\\appsettings.json",
+              "RelativeToolTip": "NetCoreLAB6_EF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T05:35:39.045Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

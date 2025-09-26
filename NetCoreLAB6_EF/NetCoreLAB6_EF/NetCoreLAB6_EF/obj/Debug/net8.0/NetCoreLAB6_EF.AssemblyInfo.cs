@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreLAB6_EF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e817ac3cf5576ad15a84e76a8759ff1b9902e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cffeafdfe905474dc7775b6be98b52195500553")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreLAB6_EF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreLAB6_EF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
