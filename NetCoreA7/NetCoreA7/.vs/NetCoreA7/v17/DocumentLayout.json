@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\netcorea7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\netcorea7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|c:\\users\\acer\\source\\repos\\nqhday01\\k22cnt4_nqhuy_ptudwebvscn.net\\netcorea7\\netcorea7\\netcorea7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69830D97-5C5E-413A-9F71-677AD35ADD10}|NetCoreA7\\NetCoreA7.csproj|solutionrelative:netcorea7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Areas\\admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:44:37.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreA7\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Program.cs",
+              "RelativeToolTip": "NetCoreA7\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:34:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "NetCoreA7\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "NetCoreA7\\Areas\\admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:27:12.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Areas\\admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:23:16.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Areas\\admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:20:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_admins.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\Shared\\_admins.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Areas\\admins\\Views\\Shared\\_admins.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Areas\\admins\\Views\\Shared\\_admins.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Areas\\admins\\Views\\Shared\\_admins.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:16:46.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NetCoreA7\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NetCoreA7\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-26T12:13:29.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetCoreA7",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\NetCoreA7.csproj",
+              "RelativeDocumentMoniker": "NetCoreA7\\NetCoreA7.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\NetCoreA7.csproj",
+              "RelativeToolTip": "NetCoreA7\\NetCoreA7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T12:11:06.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:07:29.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:04:58.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_main.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Views\\Shared\\_main.cshtml",
+              "RelativeDocumentMoniker": "NetCoreA7\\Views\\Shared\\_main.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\nqhDay01\\K22cnt4_NQhuy_PTUDWebVSCN.NET\\NetCoreA7\\NetCoreA7\\NetCoreA7\\Views\\Shared\\_main.cshtml",
+              "RelativeToolTip": "NetCoreA7\\Views\\Shared\\_main.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T12:01:16.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
